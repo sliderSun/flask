@@ -1,7 +1,7 @@
 
 
 https://img.shields.io/pypi/pyversions/Django.svg
-                          // Flask //
+                         
 
               web development, one drop at a time
 
